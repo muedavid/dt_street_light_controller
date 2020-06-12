@@ -1,0 +1,11 @@
+Header header
+float32 lux_control_input
+float32 r_control_input
+float32 g_control_input
+float32 b_control_input
+float32 error_r
+float32 error_b
+float32 error_g
+float32 data_r
+float32 data_g
+float32 data_b

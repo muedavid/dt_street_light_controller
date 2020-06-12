@@ -1,0 +1,19 @@
+#parameter for RGB sensor
+#values in MS: 700,154,101,50,24
+integration_time: 24
+#value for gain: 1,4,16,60
+integration_gain: 4
+
+# number of measured values that we take for integration
+integralsize: 20
+
+num_calib: 20
+
+#PI kontroller
+k_I: 0.1
+k_p: 0.01
+
+#optimal lighting condition
+red: 250
+green: 250
+blue: 180

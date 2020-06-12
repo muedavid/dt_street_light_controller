@@ -1,1 +1,6 @@
 # LIST YOUR PYTHON PACKAGES HERE
+numpy
+smbus
+Adafruit_TCS34725
+future
+RPi.GPIO
